@@ -49,8 +49,6 @@ select * from PARAMETROS_GENERALES where CoeDeE_Codigo = '1101'
 --Valor2
 select * from PARAMETROS_GENERALES where CoeDeE_Codigo = '1102'
 
---Depreciacion de edificiacion
-
 
 
 
